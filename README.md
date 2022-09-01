@@ -1,3 +1,7 @@
-## npm i or Yarn to install dependencies
+## 테스트 코드
 
-## npm start or yarn start to start project
+리액트는 2가지를 테스트한다.
+
+-Hook
+
+-컴포넌트
